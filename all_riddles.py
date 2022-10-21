@@ -4,6 +4,7 @@ riddles_json = {"riddles":
     {"correct":529,"guesses":549,"id":32,"question":"Who's named after a city but as tall as the eiffel tower?"},
     {"correct":87,"guesses":118,"id":5,"question":"I posted a riddle, who am i?"},
     {"correct":1,"guesses":2,"id":88,"question":"Ocean"},
+    {"correct"1,"guesses":2,"id":69,"question":"im am groot"}
     {"correct":14,"guesses":23,"id":61,"question":"You start at red, but stop at green. What am I?"},
     {"correct":8,"guesses":14,"id":50,"question":"Is Ocean in the Ocean?"},
     {"correct":14,"guesses":26,"id":40,"question":"angus"},
