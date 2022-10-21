@@ -11,5 +11,3 @@ riddles_json = {"riddles":
     {"correct":0,"guesses":1,"id":63,"question":"I am an odd number. Take away a letter and I become evenen. What number am I?"}
     ]
 }
-
-print(riddles_json(3))
